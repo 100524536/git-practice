@@ -1,1 +1,2 @@
 Adding example
+Adding new line
